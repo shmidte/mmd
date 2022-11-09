@@ -1,2 +1,1 @@
-# mmd
-Test task for MMD
+# just test
